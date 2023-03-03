@@ -58,5 +58,17 @@ Finding of this distribution could find out in PPT Document.
 
 ### Dashboard Development
 
-In this process, we developed Dynamic Dashboard using Microsoft PowerBI tool. this dashbaord capable to provide specific information as per User requirements.
+In this process, we developed Dynamic Dashboard using Microsoft PowerBI tool. this dashbaord capable to provide specific information as per User requirements. User can choose pre-requistic condition to obtain data
 
+Screenshot:
+
+Existing Customer Dashboard:
+![1](https://user-images.githubusercontent.com/115641570/222718879-dfb0aefd-5441-4514-a011-90d50bf465a8.PNG)
+
+
+New Customer DashBoard:
+![2](https://user-images.githubusercontent.com/115641570/222719100-63ff08c2-46d6-47a5-ba7b-88cd583bfdd7.PNG)
+
+### Model Development:
+
+In this process, we developed model to provide require list of customers. we use RFM analysis
