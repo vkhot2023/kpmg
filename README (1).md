@@ -126,4 +126,8 @@ we analysed this customer, we obseved following trend:
 
 ## PowerBI Project:
 
-Link:
+Link: https://github.com/vkhot2023/kpmg/blob/main/UPLOAD%20kpmgpowerbi.pbix
+
+## Project Completion 
+
+project completed by VISHAL JAGANNATH KHOT
