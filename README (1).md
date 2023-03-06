@@ -63,12 +63,36 @@ In this process, we developed Dynamic Dashboard using Microsoft PowerBI tool. th
 Screenshot:
 
 Existing Customer Dashboard:
+
 ![1](https://user-images.githubusercontent.com/115641570/222718879-dfb0aefd-5441-4514-a011-90d50bf465a8.PNG)
 
 
 New Customer DashBoard:
+
 ![2](https://user-images.githubusercontent.com/115641570/222719100-63ff08c2-46d6-47a5-ba7b-88cd583bfdd7.PNG)
 
 ### Model Development:
 
-In this process, we developed model to provide require list of customers. we use RFM analysis
+In this process, we developed RFM model to provide list of high potential target customers.RFM analysis is utilize to determine which customers need to target to increase business. Model applied to both existing and new customers
+we divide customers in 6 categories namely:
+1 Platinum 
+
+2 Premium Gold
+
+3 Standard Gold
+
+4 Silver
+
+5 Bronze
+
+6 Lost Customers
+
+Their values are in order of Platinum > Premium Gold > Standard Gold > Silver > Bronze > Lost Customers
+
+Screenshot of DashBoard:
+
+![3](https://user-images.githubusercontent.com/115641570/223104375-c8939597-5c95-4989-b258-116978f888b7.PNG)
+ 
+ Above Dashboard is interactive. User can applied thier own combination on DashBoard.
+we applied different analysis on this data. More information could find out in PPT Document
+
