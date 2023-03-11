@@ -9,9 +9,9 @@ Sprocket Central Pty Ltd specializes in high-quality bikes and accessible cyclin
 Using this dataset, we aspire to recommend high-value customers to optimize resource allocation for targeted marketing. 
 
 ## Dataset
-Raw dataset: https://github.com/vkhot2023/kpmg
+Raw dataset: https://github.com/vkhot2023/kpmg/blob/main/KPMG%20raw%20data.xlsx
 ## Development process
-we are going to follow 5 steps to successfully complete this project:
+We are functioning following 5 steps to complete this project:
 
 * Project statement
 * Data Exploration
@@ -21,33 +21,33 @@ we are going to follow 5 steps to successfully complete this project:
 
 ###  Project statement
 
-In this process, we are going to defined Project Problem statement and what will consider as successfull completion of project.
+In this process, we are defining the Project Problem statement and what will consider successful completion of the project?
 
 Problem statement:
-Client has specific 2 requirements:
+The client has specific 2 requirements:
 
-1  Need Top 1000 most valuable customers from existing customer List
+1   Top 1000 most valuable customers from the existing customer List.
 
-2  Top 20% Potential customers from new target customer List
+2  Top 20% of Potential customers from the new target customer List.
 
-  project will consider as successfull completion when both client requirements resolved.
+The project will consider a successful complete when clients both  requirements satisfied.
 
   ### Data Exploration
 
-  In this process, we perform 2 tasks: Data Quality Assessments and Data Distribution
+  In this process, we are performing 2 tasks: Data Quality Assessments and Data Distribution.
 
 Data Quality Assessments:
-we extract raw data which contain excel workbook with 4 different sheets namely Transactions,CustomerDemographic, CustomerAddess and NewCustomerList.
+We extract raw data which contains an Excel workbook with 4 different sheets namely Transactions, CustomerDemographic, CustomerAddess, and NewCustomerList.
   
- We found certain data quality issues with respect to datasets, we perform quality assessments such as Data Accuracy, Data Completeness, Data Consistency and Data Currency
-Detail of this assessment could find out in PPT Document.
+ We found certain data quality issues concerning datasets. We perform quality assessments tests such as Data Accuracy, Data Completeness, Data Consistency, and Data Currency.
+Detail of this assessment could find out in PDF Document.
 
 Link: https://github.com/vkhot2023/kpmg/blob/main/kpmg%20ppt.pdf
 
-we use data cleaning techniques to convert data into suitable format
+We use data-cleaning techniques to convert data into a suitable format.
 
 Data Distribution:
-We explore data to get basic understanding of datasets. We explore data based on   
+We explore data to get a basic understanding of datasets. We explore data based on   
 1  Age 
 2  Gender    3  jobs
 4  wealth
@@ -59,7 +59,7 @@ Link: https://github.com/vkhot2023/kpmg/blob/main/kpmg%20ppt.pdf
 
 ### Dashboard Development
 
-In this process, we developed Dynamic Dashboard using Microsoft PowerBI tool. this dashbaord capable to provide specific information as per User requirements. User can choose pre-requistic condition to obtain data
+In this process, we developed Dynamic Dashboard using the Microsoft PowerBI tool. This dashboard is capable of providing specific information as per User requirements. Users can choose the pre-requisite condition to obtain data
 
 Screenshot:
 
@@ -72,10 +72,13 @@ Screenshot:
 
 ![2](https://user-images.githubusercontent.com/115641570/222719100-63ff08c2-46d6-47a5-ba7b-88cd583bfdd7.PNG)
 
+Dashboard Link:https://github.com/vkhot2023/kpmg/blob/main/UPLOAD%20kpmgpowerbi.pbix
+
 ### Model Development:
 
-In this process, we developed RFM model to provide list of high potential target customers.RFM analysis is utilize to determine which customers need to target to increase business. Model applied to both existing and new customers
-we divide customers in 6 categories namely:
+In this process, we developed an RFM model to provide a list of high-potential target customers.RFM analysis is utilized to determine which customers need to target to increase business. The model applied to both existing and new customers
+we divide customers into the following 6 categories :
+
 1 Platinum 
 
 2 Premium Gold
@@ -90,22 +93,22 @@ we divide customers in 6 categories namely:
 
 Their values are in order of Platinum > Premium Gold > Standard Gold > Silver > Bronze > Lost Customers
 
-Describtion of this Titles explained in PPT Document
+Describtion of this Titles explained in PPT Document.
 
 Screenshot of DashBoard:
 
 ![3](https://user-images.githubusercontent.com/115641570/223104375-c8939597-5c95-4989-b258-116978f888b7.PNG) 
 
  
- Above Dashboard is interactive. User can applied thier own combination on DashBoard.
-we applied different analysis on this data. Customer segmentation according to their Title completed with the help of RFM Model.     
-More information could find out in PPT Document
+Above Dashboard is interactive. Users can apply their combination on DashBoard.
+We applied different analyses to this data. Customer segmentation performed according to their Title. These Titles were generated with the help of the RFM Model.     
+More information could find out in the PPT document developed an RFM model to provide a list of high-potential target customers.
 
 Link: https://github.com/vkhot2023/kpmg/blob/main/kpmg%20ppt.pdf
 
 ### Data Analysis
 
-After successfully completion of Model development step, we achieved customer segmentation based on thier potential customer capabilities
+After completing of Model development step, we achieved customer segmentation based on their potential customer capabilities
 
                                                        Existing Customers  
 <img src="https://user-images.githubusercontent.com/115641570/223116370-0aa6014e-77ec-4e94-a836-daf6133fcf5b.png" width="450" height="300" /> <img src="https://user-images.githubusercontent.com/115641570/223120003-26d69581-a2c2-4fed-bc1d-01e0ab14c52b.png" width="450" height="300" />
@@ -113,18 +116,20 @@ After successfully completion of Model development step, we achieved customer se
                                                        New Customers
 <img src="https://user-images.githubusercontent.com/115641570/223122241-41249a12-64d6-4f53-9865-ce4b63619ee2.png" width="450" height="300" /> <img src="https://user-images.githubusercontent.com/115641570/223122549-cbe2f6a0-f63d-4a7c-8837-94cd47fef252.png" width="450" height="300" />
 
-* As we need Top 1000 customer list from existing Customer Dataset so we select Platinum and Premium_Gold category customers. we select whole Platinum category with 570 customers and 430/486 customers from Premium_Gold Category
+* As we need the Top 1000 customer list from the existing Customer Dataset. We aspire to select Platinum and Premium_Gold, category customers. We selected the whole Platinum category with 570 customers and 430/486 customers from Premium_Gold Category.
 
-* As we need Top 20% customer list from New Potential Customer Dataset so we select Platinum, Premium_Gold, Standard_Gold category customers. we select whole Platinum category with 37 customers, whole Premium_Gold Categoryand 134 customers and 29/186 customers from Standard_Gold Category
+* As we need the Top 20% customer list from New Potential Customer Dataset.We select Platinum, Premium_Gold, and Standard_Gold, category customers. we selected the whole Platinum category with 37 customers, the whole Premium_Gold Category with 134 customers, and 29/186 customers from Standard_Gold Category.
 
-we analysed this customer, we obseved following trend:
+we analyzed this customer, we observed following trend:
 
 ![image](https://user-images.githubusercontent.com/115641570/223144775-1b02ad05-1531-44d5-8c63-7b27226f62b6.png)
 
-## PowerBI Project:
+## PowerBI Project and PDF Document:
 
-Link: https://github.com/vkhot2023/kpmg/blob/main/UPLOAD%20kpmgpowerbi.pbix
+Project Link: https://github.com/vkhot2023/kpmg/blob/main/UPLOAD%20kpmgpowerbi.pbix
+
+PDF Link: https://github.com/vkhot2023/kpmg/blob/main/kpmg%20ppt.pdf
 
 ## Project Completion 
 
-project completed by VISHAL JAGANNATH KHOT
+Project completed by VISHAL JAGANNATH KHOT
