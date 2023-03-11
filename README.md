@@ -2,16 +2,14 @@
 
 Sprocket Central Pty Ltd specializes in high-quality bikes and accessible cycling accessories for riders. 
 
-1 Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior.we need to recommend the TOP 1000 customers that shall target by Sprocket Central Pty Ltd to drive the most value for the organization.  
+1 Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior. We need to recommend the TOP 1000 customers for Sprocket Central Pty Ltd to drive the most value for the organization.  
 
-2 Client also has New list of 1000 potential customers do not have any prior transaction history with the organization.
+2 Client also has a New list of 1000 potential customers who do not have any prior transaction history with the organization.
  Their marketing team required analyzed data that could help optimize resource allocation for targeted marketing.
-Using this dataset, we need to recommend high-value customers to optimize resource allocation for targeted marketing. 
-
-
+Using this dataset, we aspire to recommend high-value customers to optimize resource allocation for targeted marketing. 
 
 ## Dataset
-raw dataset: https://github.com/vkhot2023/kpmg
+Raw dataset: https://github.com/vkhot2023/kpmg
 ## Development process
 we are going to follow 5 steps to successfully complete this project:
 
