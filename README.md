@@ -53,7 +53,7 @@ We explore data to get a basic understanding of datasets. We explore data based 
 4  wealth
 5  state
 
-Finding of this distribution could find out in PPT Document.
+Finding of this distribution could find out in PDF Document.
 
 Link: https://github.com/vkhot2023/kpmg/blob/main/kpmg%20ppt.pdf
 
@@ -93,7 +93,7 @@ we divide customers into the following 6 categories :
 
 Their values are in order of Platinum > Premium Gold > Standard Gold > Silver > Bronze > Lost Customers
 
-Describtion of this Titles explained in PPT Document.
+Describtion of this Titles explained in PPF Document.
 
 Screenshot of DashBoard:
 
@@ -102,7 +102,7 @@ Screenshot of DashBoard:
  
 Above Dashboard is interactive. Users can apply their combination on DashBoard.
 We applied different analyses to this data. Customer segmentation performed according to their Title. These Titles were generated with the help of the RFM Model.     
-More information could find out in the PPT document developed an RFM model to provide a list of high-potential target customers.
+More information could find out in the PDF document developed an RFM model to provide a list of high-potential target customers.
 
 Link: https://github.com/vkhot2023/kpmg/blob/main/kpmg%20ppt.pdf
 
